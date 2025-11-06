@@ -1,0 +1,8 @@
+# Bonsai
+.bonsai/Packages
+.bonsai/Settings
+.bonsai/Bonsai.exe
+.bonsai/Bonsai.exe.settings
+
+# Data
+Data/
