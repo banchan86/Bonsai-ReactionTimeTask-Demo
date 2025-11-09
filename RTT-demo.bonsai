@@ -86,7 +86,7 @@
             </Expression>
             <Expression xsi:type="Combinator">
               <Combinator xsi:type="rx:Timer">
-                <rx:DueTime>PT2S</rx:DueTime>
+                <rx:DueTime>PT1S</rx:DueTime>
               </Combinator>
             </Expression>
             <Expression xsi:type="rx:Sink">
@@ -455,7 +455,7 @@
           <ui:Y>400</ui:Y>
         </ui:Location>
         <ui:Size>
-          <ui:Width>400</ui:Width>
+          <ui:Width>600</ui:Width>
           <ui:Height>400</ui:Height>
         </ui:Size>
         <ui:WindowState xsi:nil="true" />
