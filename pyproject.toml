@@ -7,4 +7,5 @@ requires-python = ">=3.10"
 dependencies = [
     "harp-python>=0.4.1",
     "jupyterlab>=4.4.10",
+    "matplotlib>=3.10.7",
 ]
