@@ -10,10 +10,10 @@ This example demonstrates how to use the [Harp Hobgoblin](https://harp-tech.org/
 2) Adjust the task parameters to specify the response window/timeout as well as number of trials.
 3) Hit the `Start` button to start the reaction time task.
 
-## How to analyse data
+## How to analyze data
 
 This example includes a simple Jupyter notebook for data analysis. To setup the virtual environment for data analysis:
 
-1) Install `uv`
-2) Run `uv sync` to restore the virtual environment
+1) Install [`uv`](https://docs.astral.sh/uv/getting-started/).
+2) Run `uv sync` to restore the virtual environment.
 3) Run `uv run jupyter lab` and open the `harp_data_analysis.ipynb` Jupyter notebook.
